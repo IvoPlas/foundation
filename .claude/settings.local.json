@@ -3,7 +3,9 @@
     "allow": [
       "Read(//usr/local/bin/**)",
       "Bash(curl:*)",
-      "Bash(php:*)"
+      "Bash(php:*)",
+      "Bash(git config:*)",
+      "Bash(tree:*)"
     ],
     "deny": [],
     "ask": []

@@ -1,4 +1,10 @@
 {
+    "ivoplas/symfony-foundation": {
+        "version": "dev-develop"
+    },
+    "ivoplas/symfony-foundation-bundle": {
+        "version": "dev-develop"
+    },
     "symfony/console": {
         "version": "7.2",
         "recipe": {

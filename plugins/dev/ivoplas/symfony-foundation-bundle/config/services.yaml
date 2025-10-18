@@ -1,0 +1,10 @@
+services:
+  _defaults:
+    autowire: true
+    autoconfigure: true
+
+  IvoPlas\SymfonyFoundationBundle\:
+    resource: '../src/'
+    exclude:
+      - '../src/DependencyInjection'
+      - '../src/SymfonyFoundationBundle.php'
